@@ -1,0 +1,5 @@
+*.sw[a-z]
+profile
+profile-power
+profile-hugepage
+profile-hugepage-power
