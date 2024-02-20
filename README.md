@@ -12,7 +12,7 @@ In order to run the proof-of-concepts, the following prerequisites need to be fu
 
 * Linux installation
   * Build tools (gcc, make)
-  * [AMD energy driver](driver-amd-energy) (optional)
+  * [AMD energy driver](driver/amd-energy) (optional)
   * [PTEditor](https://github.com/misc0110/PTEditor/)
 * AMD CPU
 
